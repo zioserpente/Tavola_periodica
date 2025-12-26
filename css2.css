@@ -1,0 +1,162 @@
+body, h1, section, div {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2px;
+    gap: 2px;
+}
+
+div {
+    width: 50px;
+    height: 50px;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+h6{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+h5{
+    margin-top: 50px;
+    font-size: 10px;
+}
+/* hover */
+.attinidi:hover {
+    background-color: #cb0000;
+}
+.gas-nobili:hover{
+    background-color: rgb(138, 143, 1);
+}
+.lantanidi:hover{
+    background-color: rgb(131, 193, 37);
+}
+.metali-alcalini:hover{
+    background-color: rgb(156, 4, 75)
+}
+.metalli-di-transizione:hover{
+    background-color: rgb(3, 105, 156);
+}
+.semi-metalli:hover{
+    background-color: rgb(1, 90, 17);
+}
+.non-metalli:hover{
+    background-color: rgb(4, 51, 160);
+}
+.altri-metalli:hover{
+    background-color: rgb(176, 110, 3);
+}
+.metali-alcalino-terrosi:hover{
+    background-color: rgb(150, 64, 104);
+
+}
+.alogeni:hover{
+    background-color: rgb(202, 159, 2);
+}
+/* Elemento selezionato */
+#jesseweneedtocook,#imgdiv {
+    width: 200px;
+    height: 200px;
+    background-color: #949292;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 125px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+#d5,#d13{
+    margin-left: 34.3%;
+}
+#d2{
+    margin-left:54.8% ;
+}
+#info{
+    height: 200px;
+    width: 270px;
+    background-color: #f0f0f0;
+    font-size: 14px;
+    justify-content: left;
+    align-items: normal;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left:-20vw;
+}
+#infoh1{
+    white-space: pre-wrap;
+    font-size: 18px;
+}
+.gas-nobili{
+    background-color: rgb(229, 255, 0);
+}
+.alogeni{
+    background-color: rgb(255, 225, 0);
+}
+.lantanidi{
+    background-color: greenyellow;
+}
+.semi-metalli{
+    background-color: rgb(1, 154, 29);
+}
+.attinidi{
+    background-color: red;
+}
+.metali-alcalini{
+    background-color: rgb(214, 7, 104);
+}
+.metali-alcalino-terrosi{
+    background-color: rgb(240, 98, 164);
+
+}
+.metalli-di-transizione{
+    background-color: rgb(0, 170, 255);
+}
+.non-metalli{
+    background-color: rgb(0, 76, 255);
+}
+.altri-metalli{
+    background-color: rgb(255, 157, 0);
+}
+#comp{
+    margin-left: -185px;
+    margin-top: 180px;
+}
+.periodo{
+    background-color: #f0f0f0;
+}
+#ichatbot{
+    width: 400px;
+    height: 0.5cm;
+    margin-left: -400px;
+    margin-top: 180px;
+}
+#dettagliatadesc{
+    height: 200px;
+    width: 400px;
+    background-color: #b8b5b5;
+    font-size: 14px;
+    justify-content: left;
+    align-items: normal;
+    font-size: 14px;
+    font-weight: bold;
+}
+#gruppo2{
+    margin-top: -20px;
+}

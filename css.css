@@ -1,0 +1,34 @@
+#s1,#s12,#s13,#s14,#s15{
+    display:flex;
+    justify-content: space-around;
+    width: 99vw;
+    height: 15vh;
+    background-color: rgb(6, 90, 6);
+}
+#s2{
+    width: 50vw;
+    height: 30vh;
+    background-color: rgb(6, 90, 6);
+    margin-left: 24vw;
+}
+body{
+    background-color: rgb(8, 8, 74);
+}
+div{
+    background-color: orange;
+    height: 12vh;
+    width: 12vh;
+    font-size: 80px;
+    text-align: center;
+    color:black;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15%;
+    border-width: 1.5px
+}
+#jesseweneedtocook{
+    height: 5.25cm;
+    width: 5cm;
+    margin-left: 0% ;
+    margin-top:-20px;
+}
