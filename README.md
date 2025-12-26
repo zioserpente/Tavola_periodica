@@ -1,3 +1,3 @@
-#Tavola periodica
+# Tavola periodica
 
 Fatta in HTML e Javascript
